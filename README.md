@@ -124,7 +124,7 @@ This project demonstrates end-to-end data analytics skills, including data clean
 ## Author
 
    Revathy Ajith
- Aspiring Data Scientist / Data Analysist
+ Aspiring Data Scientist / Data Analysist.
 
 
 
