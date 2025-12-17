@@ -1,16 +1,13 @@
 # Agridata Explorer
-=====================
 
 
 ## Project Overview
-=====================
 
 Agridata Explorer is an end-to-end data analytics project focused on analyzing Indian agricultural crop production data. The project uses Python for data cleaning and exploratory data analysis (EDA), SQL for structured analysis, and Power BI for interactive dashboard visualization. The goal is to identify production trends, top-performing states, and crop-wise insights over multiple years.
 
 
 
 ## Tools & Technologies
-=========================
 
 * Python (Pandas, Matplotlib)
 * SQL
@@ -21,7 +18,6 @@ Agridata Explorer is an end-to-end data analytics project focused on analyzing I
 
 
 ## Dataset Source
-=======================
 
 * ICRISAT – District Level Agricultural Data (India)
 * The dataset contains crop production, area, and yield information across different Indian states and districts over multiple years.
@@ -29,7 +25,6 @@ Agridata Explorer is an end-to-end data analytics project focused on analyzing I
 
 
 ## Project Structure
-=======================
 
 AGRIDATA_EXPLORER/
 │
@@ -65,7 +60,6 @@ AGRIDATA_EXPLORER/
 
 
 ## Data Cleaning & Exploratory Data Analysis (Python)
-=======================================================
 
 * Removed missing and duplicate values from the dataset
 * Filtered and standardized crop, state, and year data
@@ -80,7 +74,6 @@ AGRIDATA_EXPLORER/
 
 
 ## SQL Analysis
-====================
 
 * Wrote SQL queries to analyze agricultural data efficiently
 * Analysis includes:
@@ -93,7 +86,6 @@ AGRIDATA_EXPLORER/
 
 
 ## Power BI Dashboard
-===========================
 
 * Built an interactive Power BI dashboard using the cleaned dataset
 * Created multiple report pages including:
@@ -108,7 +100,6 @@ AGRIDATA_EXPLORER/
 
 
 ## Key Insights
-=====================
 
 * Rice and wheat are the most dominant crops across multiple Indian states
 * Certain states consistently lead in oilseed and sugarcane production
@@ -118,7 +109,6 @@ AGRIDATA_EXPLORER/
 
 
 ## How to Run the Project
-===========================
 
 1. Open the project folder in VS Code
 2. Run `cleaning_eda.py` to clean and prepare the dataset
@@ -128,9 +118,13 @@ AGRIDATA_EXPLORER/
 
 
 ## Conclusion
-=================
 
 This project demonstrates end-to-end data analytics skills, including data cleaning, exploratory analysis, SQL querying, and interactive dashboard creation using industry-standard tools.
+
+## Author
+
+   Revathy Ajith
+ Aspiring Data Scientist / Data Analysist
 
 
 
